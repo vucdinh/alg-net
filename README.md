@@ -1,6 +1,6 @@
-Consistent feature selection for analytic deep neural networks
+**Consistent feature selection for analytic deep neural networks**<br/> 
 
-Vu Dinh (University of Delaware) · Lam Ho (University of Dalhousie)
+*Vu Dinh (University of Delaware) · Lam Ho (University of Dalhousie)*
 
 @inproceedings{dinh2020consistent,
   title={Consistent feature selection for analytic deep neural networks},
