@@ -2,10 +2,10 @@
 
 *Vu Dinh (University of Delaware) · Lam Ho (University of Dalhousie)*
 
-@inproceedings{dinh2020consistent,
-  title={Consistent feature selection for analytic deep neural networks},
-  author={Dinh, Vu and Si Tung Ho, Lam},
-  booktitle={Neural Information Processing Systems},
+@inproceedings{dinh2020consistent,<br /> 
+  title={Consistent feature selection for analytic deep neural networks},<br /> 
+  author={Dinh, Vu and Si Tung Ho, Lam},<br /> 
+  booktitle={Neural Information Processing Systems},<br /> 
   year={2020},
 }
 
