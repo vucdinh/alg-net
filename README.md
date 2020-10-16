@@ -6,7 +6,7 @@
   title={Consistent feature selection for analytic deep neural networks},<br /> 
   author={Dinh, Vu and Si Tung Ho, Lam},<br /> 
   booktitle={Neural Information Processing Systems},<br /> 
-  year={2020},
+  year={2020},<br /> 
 }
 
 Requirements: The code is tested on Mac OS with Python version 3.7 and PyTorch verson 1.5.0.  
